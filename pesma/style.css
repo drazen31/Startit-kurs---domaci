@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background-color: lightblue;
+}
+
+h1 {
+	text-transform: uppercase;
+	color: red;
+	text-decoration: underline;
+	font-size: 25px;
+	text-shadow: 2px 2px #DEB887;
+}
+/*komentat bla bla*/
+p {
+	font-family: Tahoma;
+	font-size: 14px;
+	color: green;
+
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+.prvi-deo {
+	color: red;
+}
+
+.drugi-deo {
+	font-size: 12px;
+}
+span {
+	color: rgb(148, 88, 131)
+}
+
+p:nth-child(even) {
+    color: rgb(122, 116, 165)
+ }
