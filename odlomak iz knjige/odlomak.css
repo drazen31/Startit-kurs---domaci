@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	background-color: rgb(255, 176, 255)
+}
+
+h1 {
+	font-size: 45px;
+	color: rgb(33, 122, 57)
+}
+
+h2 {
+	font-family: georgia;
+	text-shadow: 2px 2px #DEB887
+}
+
+span {
+	font-style: italic;
+	color: red;
+}
+
+a {
+	text-decoration: none;
+	font-style: italic;
+}
+
+#prvi-deo {
+	border-style: dotted;	
+}
+#treci-deo {
+	border-style: groove;
+}
+/* ovo sto ja radim dizajnerski je velika nula, ali kao pocetnik bitno je da radi kako treba */
